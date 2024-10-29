@@ -1,22 +1,23 @@
 <!-- Profile Title -->
 <div align="center">
   <h1 align="center">Ryan Tofanini | Data Scientist</h1>
+
+  <!-- Introduction -->
+<div align="center">
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=BB1BF7&width=600&lines=Hello+World!+I'm+Ryan+Tofanini;Data Scientist+from+Brazil;Passionate+about+AI%2C+NLP%2C+and+Data+Science" alt="Typing SVG" />
+  </a>
+</div>
+
+  <img src="https://i.pinimg.com/originals/82/2a/46/822a46550298ca25cc5b8c0785c21a7d.gif" alt="Developer Animation" width="1000">
+</div>
+
   <!-- Brief Introduction -->
 <p align="center">
 🎓 Software Engineering Student | 🌐 Passionate about Data Engineering and AI <br>
 Always seeking to learn and explore new technologies to create innovative solutions that benefit humanity.
 </p>
-
-  <img src="https://i.pinimg.com/originals/82/2a/46/822a46550298ca25cc5b8c0785c21a7d.gif" alt="Developer Animation" width="1000">
-</div>
-
-<!-- Introduction -->
-<div align="center">
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=BB1BF7&width=600&lines=Hello+World!+I'm+Ryan+Tofanini;Back-end+Developer+from+Brazil;Passionate+about+AI%2C+NLP%2C+and+Data+Science" alt="Typing SVG" />
-  </a>
-</div>
 
 <!-- Tech Stack -->
 <div align="center">

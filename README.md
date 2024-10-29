@@ -1,21 +1,22 @@
 <!-- Profile Title -->
 <div align="center">
   <h1 align="center">Ryan Tofanini | Data Scientist</h1>
+  <!-- Brief Introduction -->
+<p align="center">
+🎓 Software Engineering Student | 🌐 Passionate about Data Engineering and AI <br>
+Always seeking to learn and explore new technologies to create innovative solutions that benefit humanity.
+</p>
+
   <img src="https://i.pinimg.com/originals/82/2a/46/822a46550298ca25cc5b8c0785c21a7d.gif" alt="Developer Animation" width="1000">
 </div>
 
 <!-- Introduction -->
 <div align="center">
+  
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=BB1BF7&width=600&lines=Hello+World!+I'm+Ryan+Tofanini;Back-end+Developer+from+Brazil;Passionate+about+AI%2C+NLP%2C+and+Data+Science" alt="Typing SVG" />
   </a>
 </div>
-
-<!-- Brief Introduction -->
-<p align="center">
-🎓 Software Engineering Student | 🌐 Passionate about Data Engineering and AI <br>
-Always seeking to learn and explore new technologies to create innovative solutions that benefit humanity.
-</p>
 
 <!-- Tech Stack -->
 <div align="center">
@@ -63,6 +64,5 @@ I'm currently specializing in Data Engineering and developing applications invol
 <div align="center">
   <h3>📫 Connect with Me</h3>
   <p>
-    🌐 [LinkedIn](https://www.linkedin.com/in/ryantofanini) <br>
-    ✉️ Email: [ryantofanini@example.com](mailto:ryantofanini@example.com) <br>
-    🌍 
+    🌐 LinkedIn: (https://www.linkedin.com/in/ryantofanini) <br>
+    ✉️ Email: [ryantofanini@gmail.com]<br>

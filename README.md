@@ -1,6 +1,6 @@
 <!-- Profile Title -->
 <div align="center">
-  <h1 align="center">Ryan Tofanini | Data Scientist</h1>
+  <h1 align="center">Ryan Tofanini | Back end</h1>
 
   <!-- Introduction -->
 <div align="center">
@@ -40,7 +40,7 @@ Always seeking to learn and explore new technologies to create innovative soluti
   <h3>👨‍💻 About Me</h3>
 </div>
 <p>
-🎓 Software Engineering Student | 🎯 Data Scientist<br>
+🎓 Software Engineering Student | 🎯 Back-end Development<br>
 I'm currently specializing in Data Engineering and developing applications involving AI and NLP. I dedicate my time to creating projects that aim to help the community and the environment, focusing on environmental monitoring and healthcare. Currently, I'm working on:
 </p>
 
